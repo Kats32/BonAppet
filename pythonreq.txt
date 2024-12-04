@@ -1,0 +1,3 @@
+# Activate Python env
+source /env/bin/activate.fish
+pip install --upgrade django-crispy-forms
